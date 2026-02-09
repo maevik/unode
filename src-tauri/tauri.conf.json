@@ -12,9 +12,9 @@
   "app": {
     "windows": [
       {
-        "title": "unode",
-        "width": 800,
-        "height": 600
+        "title": "uNode: Tournament Bracket System",
+        "width": 1000,
+        "height": 700
       }
     ],
     "security": {
